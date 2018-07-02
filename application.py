@@ -19,7 +19,7 @@ while True:
 				if(line3[x]=="|" and line3[x+1]=="_" and line3[x+2]=="|"):
 					print("0"),
 
-		if(1 == 1):
+		if(line1[x] == " " and line1[x] == " " and line1[x] == " "):
 			if(line2[x]==" " and line2[x+1]=="|" and line2[x+2]==" "):
 				if(line3[x]==" " and line3[x+1]=="|" and line3[x+2]==" "):
 					print("1"),
@@ -34,7 +34,7 @@ while True:
                                 if(line3[x]==" " and line3[x+1]=="_" and line3[x+2]=="|"):
                                         print("3"),
 
-		if(1 == 1):
+		if(line1[x] == " " and line1[x] == " " and line1[x] == " "):
                         if(line2[x]=="|" and line2[x+1]=="_" and line2[x+2]=="|"):
                                 if(line3[x]==" " and line3[x+1]=="|"):
                                         print("4"),
